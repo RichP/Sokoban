@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E1CA775B-2F6A-47E7-99F8-6E945756EAD0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A3B5BDA-1B61-4E87-80E1-E32054EF33FA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sokoban/Overlay.swift"
+            timestampString = "430673807.177365"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "init(size:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

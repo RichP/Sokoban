@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    
+    <dict>
+        <key>width</key>
+        <integer>5</integer>
+        <key>height</key>
+        <integer>4</integer>
+        <key>maplines</key>
+        <array>
+            <string>#####</string>
+            <string>#@$.#</string>
+            <string># $.#</string>
+            <string>#####</string>
+        </array>
+    </dict>
+    
+    <dict>
+        <key>width</key>
+        <integer>5</integer>
+        <key>height</key>
+        <integer>5</integer>
+        <key>maplines</key>
+        <array>
+            <string>###  </string>
+            <string>#.#  </string>
+            <string>#$###</string>
+            <string>#@$.#</string>
+            <string>#####</string>
+        </array>
+    </dict>
+    
+    
+	<dict>
+		<key>width</key>
+		<integer>6</integer>
+		<key>height</key>
+		<integer>5</integer>
+		<key>maplines</key>
+		<array>
+			<string>##### </string>
+			<string>##.@ #</string>
+            <string># $$ #</string>
+            <string>#.  ##</string>
+            <string>##### </string>
+		</array>
+	</dict>
+    
+    
+    <dict>
+        <key>width</key>
+        <integer>5</integer>
+        <key>height</key>
+        <integer>6</integer>
+        <key>maplines</key>
+        <array>
+            <string>#####</string>
+            <string>#@$.#</string>
+            <string>#.$ #</string>
+            <string>##  #</string>
+            <string> #  #</string>
+            <string> ####</string>
+        </array>
+    </dict>
+    
+    
+    <dict>
+        <key>width</key>
+        <integer>11</integer>
+        <key>height</key>
+        <integer>8</integer>
+        <key>maplines</key>
+        <array>
+            <string>      #####</string>
+            <string>      #.  #</string>
+            <string>      #.# #</string>
+            <string>#######.# #</string>
+            <string># @ $ $ $ #</string>
+            <string># # # # ###</string>
+            <string>#         #</string>
+            <string>###########</string>
+        </array>
+    </dict>
+    
+    
+    <dict>
+        <key>width</key>
+        <integer>8</integer>
+        <key>height</key>
+        <integer>8</integer>
+        <key>maplines</key>
+        <array>
+            <string>  ###   </string>
+            <string>  #.#   </string>
+            <string>  # ####</string>
+            <string>###$ $.#</string>
+            <string>#. $@###</string>
+            <string>####$#  </string>
+            <string>   #.#  </string>
+            <string>   ###  </string>
+        </array>
+    </dict>
+    
+    <dict>
+        <key>width</key>
+        <integer>19</integer>
+        <key>height</key>
+        <integer>11</integer>
+        <key>maplines</key>
+        <array>
+            <string>    #####          </string>
+            <string>    #   #          </string>
+            <string>    #   #          </string>
+            <string>  ### #$##         </string>
+            <string>  #      #         </string>
+            <string>### #$## #   ######</string>
+            <string>#   # ## #####   .#</string>
+            <string># $   $         ..#</string>
+            <string>##### ### #@##   .#</string>
+            <string>    #     #########</string>
+            <string>    #######        </string>
+        </array>
+    </dict>
+</array>
+</plist>
